@@ -1,4 +1,4 @@
-# Image-Classification
+# Image-Classifier
 
 Image Classification of 3 images: Sunflower, Rugby Ball Leather & Ice Cream Cone --->
 Identifies the image and gives the predicted output.
